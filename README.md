@@ -1,3 +1,5 @@
+<img width="2118" height="1081" alt="image" src="https://github.com/user-attachments/assets/5827f476-89f0-4c3f-b2a0-b312c1c531fa" />
+
 # AWS IAM Practical – Users, Groups, and Policies
 
 ## Overview
